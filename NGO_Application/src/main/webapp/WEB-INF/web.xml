@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>NGO_Application</display-name>
+  <welcome-file-list>
+   
+    
+    <welcome-file>Home.jsp</welcome-file>
+    <welcome-file>Birthday.jsp</welcome-file>
+    
+  </welcome-file-list>
+  
+  <servlet-mapping>
+  <servlet-name>insert</servlet-name>
+  <url-pattern>/in</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+   <servlet-name>insert</servlet-name>
+  <servlet-class>com.ngo.Insert</servlet-class>
+  </servlet>
+  
+</web-app>

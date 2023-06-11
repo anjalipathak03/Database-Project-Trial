@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="jakarta.servlet.http.HttpServlet"><rhs name\="com.ngo.Birthday"/></lhs><lhs name\="jakarta.servlet.GenericServlet"><rhs name\="com.ngo.Birthday"/></lhs><lhs name\="jakarta.servlet.Servlet"><rhs name\="com.ngo.Birthday"/></lhs><lhs name\="jakarta.servlet.ServletConfig"><rhs name\="com.ngo.Birthday"/></lhs><lhs name\="com.ngo.Birthday"><rhs name\="com.ngo.Birthday"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

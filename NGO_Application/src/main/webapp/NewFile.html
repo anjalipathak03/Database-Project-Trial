@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<div id="nav-placeholder"></div>
+<script src="//code.jquery.com/jquery.min.js"></script>
+<script>
+$.get("navbar.html", function(data){
+    $("#nav-placeholder").replaceWith(data);
+});
+</script>
+<h1>Data Inserted Successfully</h1>
+</body>
+</html>

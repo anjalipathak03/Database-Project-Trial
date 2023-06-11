@@ -1,0 +1,5 @@
+127.0.0.1 - - [10/Mar/2023:19:29:09 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:19:29:10 +0530] "GET /NGO_Application/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:19:29:10 +0530] "GET /NGO_Application/index.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:19:29:10 +0530] "GET /NGO_Application/navbar.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Mar/2023:19:29:10 +0530] "GET /favicon.ico HTTP/1.1" 404 763
